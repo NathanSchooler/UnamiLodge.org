@@ -4,6 +4,7 @@ layout: index
 
 slides:
   /img/slider/2025-conclave.jpg: /news/2025-Conclave-Registration-Open
+  /img/slider/2025-conclave.jpg: /news/2025-Conclave-Registration-Open
   /img/slider/2025-dinner.png: https://scoutingevent.com/525-91019
   /img/slider/slide-dues.png: /dues
 
